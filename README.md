@@ -1,0 +1,1 @@
+# 6S_aulafateczlspring_mavenSpringBoot
